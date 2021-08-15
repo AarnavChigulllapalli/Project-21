@@ -59,4 +59,5 @@ function draw() {
     Astronaut.valocityX=0.1
     Astronaut.valocityY=0.1
   } 
+  drawSprits()
 }
